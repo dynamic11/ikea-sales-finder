@@ -1,27 +1,48 @@
-import requests
+from selenium import webdriver
+import os
+import string
+from selenium.webdriver.firefox.options import Options
 
-from requests.exceptions import HTTPError
-from bs4 import BeautifulSoup
+# get current working directory
+cwd = os.getcwd()
+# set path to geckodriver
+cwd=cwd+'/geckodriver'
 
-for url in ['https://www.ikea.com/ca/en/']:
-    try:
-        response = requests.get(url)
+# configure and start selenium webdriver
+options = Options()
+options.headless = True
+driver = webdriver.Firefox(options=options, executable_path=cwd)
 
-        # If the response was successful, no Exception will be raised
-        response.raise_for_status()
-    except HTTPError as http_err:
-        print(f'HTTP error occurred: {http_err}')  # Python 3.6
-    except Exception as err:
-        print(f'Other error occurred: {err}')  # Python 3.6
-    else:
-        print('Success!')
-        text_file = open("Output.txt", "w")
-        text_file.write(response.text)
-        text_file.close()
-        print(response.text.lower().find('storage event'));
-        soup = BeautifulSoup(response.content, 'html.parser')
+# serch configuration variables
+url = "https://www.ikea.com/ca/en/"
+searchTerm = "Storage Event"
 
-        print(soup.body.findAll(text='storage'))
+# check number of word to determine all possible capitalization of the search term
+if len(searchTerm.split()) > 1:
+    possibleSearchTerms = [searchTerm.lower(), searchTerm.upper(), string.capwords(searchTerm), searchTerm.capitalize()]
+else:
+    possibleSearchTerms = [searchTerm.lower(), searchTerm.upper(), searchTerm.capitalize()]
 
+print("Possible Search terms:", possibleSearchTerms)
 
+# got to desired webpage
+print('Going to webpage:', url)
+driver.get(url)
+try:
+    print('Start Search')
+    numbResults = 0
+    for possibleSearchTerm in possibleSearchTerms:
 
+        # search for term
+        print("Searching for Term:", possibleSearchTerm)
+        xpath = "//*[contains(text(), '" + possibleSearchTerm + "')]"
+        results = driver.find_elements_by_xpath(xpath)
+
+        # increment search results
+        numbResults = numbResults + len(results)
+        print(numbResults)
+    print("Total Results Found:", numbResults)
+    print('Search Done')
+finally:
+    driver.quit()
+    print('DONE')
