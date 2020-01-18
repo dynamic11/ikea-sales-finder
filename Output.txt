@@ -1,0 +1,1416 @@
+<!DOCTYPE html>
+<html lang="en-CA" dir="ltr">
+<!-- Editorial -->
+<head>
+  <!-- Wed, 15 Jan 2020 07:19:16 GMT, Navigera 1.12.28 -->
+    <link rel="stylesheet" id="nav-styles" href="https://www.ikea.com/ca/en/header-footer/styles/main.d372bff7ae7cb34925da.css">
+    <link rel="stylesheet" href="https://www.ikea.com/ca/en/header-footer/styles/notoLatin.972484c603f8ea369b6e.css">
+    <link rel="stylesheet" href="https://www.ikea.com/ca/en/search-box/main.9c801b2a.css">
+    
+      
+        <link rel="stylesheet" href="https://www.ikea.com/ca/en/local-extensions/header-footer/styles/main.339c8495d064f8f7fae74faa.css">
+<link rel="stylesheet" href="https://www.ikea.com/ca/en/local-extensions/header-footer/styles/task-rabbit.d38d75c40d4f8d8677a85e46.css">
+<link rel="stylesheet" href="https://www.ikea.com/ca/en/local-extensions/header-footer/styles/categories.c2efc851ae814f7ba2645b7e.css">
+
+      
+    
+      
+          <script src="https://www.ikea.com/ext/optimizelyjs/s/canada_web.js" async></script>
+      
+  <link rel="shortcut icon" href="https://www.ikea.com/ca/en/static/favicon.c8e88413ba9a6935c13c717acabec335.ico">
+
+  <meta charset="utf-8"><!-- Editorial head -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/ca/en/stylesheets/main.30884df0daaa3d3f.css">
+  
+    
+      <!--
+<link rel="stylesheet" href="https://www.ikea.com/ca/en/local-extensions/publicera/styles/tiny-slider.385e7153504525582003793d.css">
+<link rel="stylesheet" href="https://www.ikea.com/ca/en/local-extensions/publicera/styles/slider-custom.89dc7268c0b68b8968b41a80.css">
+-->
+
+    
+  <link rel="stylesheet" href="https://www.ikea.com/ca/en/stylesheets/price-package-styles.89be2eae92dd16894e16.7c6ac7549c198120.css">
+  <title>Furniture and Home Furnishings - IKEA</title>
+  <meta name="title" content="Furniture and Home Furnishings - IKEA">
+  <meta name="description" content="Find affordable home furnishings and furniture, all in one store. Shop quality home furniture, décor, furnishings, and accessories.">
+  <link rel="canonical" href="https://www.ikea.com/ca/en/">
+  <meta name="robots" content="index, follow">
+  <meta property="og:title" content="Furniture and Home Furnishings" />
+  <meta property="og:description" content="Find affordable home furnishings and furniture, all in one store. Shop quality home furniture, décor, furnishings, and accessories." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://www.ikea.com/ca/en/" />
+  <meta property="og:image" content="https://www.ikea.com/images/a-grey-sektion-kitchen-with-white-countertops-aab2a2c2314dd651c507350889994e81.jpg?f=xxxl" />
+  <meta property="og:image:width" content="1440" />
+  <meta property="og:image:height" content="618" />
+  <script data-type="utag-data">
+  var utag_data = {
+    site_platform: "m2",
+    country: "ca",
+    language: "en",
+    vertical_version: "8677cb1f3313",
+    vertical_component: "editorial",
+    page_type: "home page",
+    page_name: "home page",
+    site_level_1: "home page"
+  };
+  </script>
+</head>
+<body class="normal">
+  <a href="#content" class="skip-to-content">Skip to main content</a>
+  <!-- Wed, 15 Jan 2020 07:19:16 GMT, Navigera 1.12.28 -->
+    <header class="header" role="banner">
+        <div class="top-menu">
+          <ul class="top-menu__content">
+              
+              
+              
+              
+              
+                <li class="top-menu__item ">
+                  <a href="https://www.ikea.com/ca/en/customer-service/" class="top-menu__link" >
+                    <span class="top-menu__title header__h6">Customer Service</span>
+                  </a>
+                </li>
+              
+              
+                <li class="top-menu__item ">
+                  <a href="https://ikeafamily.ca/en?utm_source&#x3D;header_navigation_family&amp;utm_medium&#x3D;header_navigation_family" class="top-menu__link" >
+                    <span class="top-menu__title header__h6">IKEA Family</span>
+                  </a>
+                </li>
+              
+              
+                <li class="top-menu__item ">
+                  <a href="https://www.ikea.com/ca/en/ikea-business/" class="top-menu__link" >
+                    <span class="top-menu__title header__h6">IKEA for Business</span>
+                  </a>
+                </li>
+              
+              
+                <li class="top-menu__item ">
+                  <a href="https://www.ikea.com/ca/en/customer-service/services/" class="top-menu__link" >
+                    <span class="top-menu__title header__h6">IKEA Services</span>
+                  </a>
+                </li>
+              
+              
+                <li class="top-menu__item ">
+                  <a href="https://www.ikea.com/ca/en/customer-service/track-manage-order/" class="top-menu__link" >
+                    <span class="top-menu__title header__h6">Track my order</span>
+                  </a>
+                </li>
+              
+              
+                <li class="top-menu__item ">
+                  <a href="https://www.ikea.com/ca/en/stores/" class="top-menu__link" >
+                    <span class="top-menu__title header__h6">Find a location</span>
+                  </a>
+                </li>
+              
+              
+                <li class="top-menu__item ">
+                  <a href="https://www.ikea.com/ca/fr/" class="top-menu__link" >
+                    <span class="top-menu__title header__h6">Français</span>
+                  </a>
+                </li>
+              
+              
+                <li class="top-menu__item top-menu__item--right">
+                  <a href="https://www.ikea.com/ca/en/profile/login/" class="top-menu__link" >
+                    <span class="top-menu__title header__h6">My profile</span>
+                  </a>
+                </li>
+              
+          </ul>
+        </div>
+      <div class="header__content">
+        <a href="https://www.ikea.com/ca/en/" class="header__logo">
+          <img class="svg-icon" src="https://www.ikea.com/ca/en/static/ikea-logo.f88b07ceb5a8c356b7a0fdcc9a563d63.svg" alt="IKEA" title="IKEA">
+          <span class="header__sr-only">IKEA</span>
+        </a>
+        <nav class="header__navigation" role="navigation">
+            <ul class="desktop-menu" data-menu-links>
+                
+                  <li class="desktop-menu__item">
+                    <a href="https://www.ikea.com/ca/en/campaigns/" class="desktop-menu__link">
+                      <span class="desktop-menu__title">Offers</span>
+                    </a>
+                  </li>
+                
+                
+                  <li class="desktop-menu__item">
+                    <a href="https://www.ikea.com/ca/en/cat/product-products/" class="desktop-menu__link">
+                      <span class="desktop-menu__title">Products</span>
+                    </a>
+                      <div class="desktop-menu__dropdown desktop-menu__dropdown--products desktop-menu__dropdown--hidden" aria-hidden="true" data-title-more="More" data-title-explore="Explore">
+                        <div class="desktop-menu__dropdown__col">
+                          <span class="desktop-menu__dropdown__heading">Products</span>
+                          <ul class="desktop-menu__level1" aria-label="Submenu for Products">
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/all-furniture-fu001/">All furniture</a>
+                                <ul data-tracking-label="Products | All furniture" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for All furniture">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bar-tables-chairs-16244/">Bar tables &amp; chairs</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/beds-bm003/">Beds</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bookcases-shelving-units-st002/">Bookcases &amp; shelving units</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/cafe-furniture-19141/">Café furniture</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/chairs-fu002/">Chairs</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/display-storage-cabinets-st003/">Display &amp; storage cabinets</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/dressers-storage-drawers-st004/">Dressers &amp; storage drawers</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/kitchen-islands-carts-fu005/">Kitchen islands &amp; carts</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/outdoor-furniture-od003/">Outdoor furniture</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/sideboards-buffets-sofa-tables-30454/">Sideboards, buffets &amp; sofa tables</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/sofas-armchairs-fu003/">Sofas &amp; armchairs</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/tables-desks-fu004/">Tables &amp; desks</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/tv-media-furniture-10475/">TV &amp; media furniture</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/armoires-wardrobes-19053/">Armoires &amp; wardrobes</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/room-dividers-46080/">Room dividers</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/bathroom-ba001/">Bathroom</a>
+                                <ul data-tracking-label="Products | Bathroom" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Bathroom">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bathroom-accessories-10555/">Bathroom accessories</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bathroom-lighting-10736/">Bathroom lighting</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bathroom-mirrors-20490/">Bathroom mirrors</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bathroom-stools-benches-20859/">Bathroom stools &amp; benches</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bathroom-storage-20802/">Bathroom storage</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bathroom-textiles-tl003/">Bathroom textiles</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/faucets-20724/">Faucets</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/showers-40690/">Showers</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/sink-cabinets-20719/">Sink cabinets</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/sinks-20723/">Sinks</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bathroom-furniture-sets-46079/">Bathroom furniture sets</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/bedroom-mattresses-bm001/">Bedroom &amp; mattresses</a>
+                                <ul data-tracking-label="Products | Bedroom &amp; mattresses" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Bedroom &amp; mattresses">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bed-legs-24822/">Bed legs</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bed-storage-19059/">Bed storage</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bedding-tl004/">Bedding</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/beds-bm003/">Beds</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/headboards-19064/">Headboards</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/mattress-bases-24825/">Mattress bases</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/mattresses-bm002/">Mattresses</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/nightstands-20656/">Nightstands</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/slatted-bed-bases-24827/">Slatted bed bases</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/baby-kids-bc001/">Baby &amp; Kids</a>
+                                <ul data-tracking-label="Products | Baby &amp; Kids" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Baby &amp; Kids">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/baby-bc002/">Baby</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/kids-bc003/">Kids</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/home-electronics-he001/">Home electronics</a>
+                                <ul data-tracking-label="Products | Home electronics" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Home electronics">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/appliances-ka002/">Appliances</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/cords-chargers-40845/">Cords &amp; chargers</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/mobile-tablet-accessories-40843/">Mobile &amp; tablet accessories</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/smart-home-he002/">Smart home</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/speakers-40842/">Speakers</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/kitchen-appliances-ka001/">Kitchen &amp; appliances</a>
+                                <ul data-tracking-label="Products | Kitchen &amp; appliances" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Kitchen &amp; appliances">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/appliances-ka002/">Appliances</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/kitchen-countertops-24264/">Kitchen countertops</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/kitchen-interior-organizers-24255/">Kitchen interior organizers</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/kitchen-cabinets-fronts-24254/">Kitchen cabinets &amp; fronts</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/kitchen-faucets-sinks-24261/">Kitchen faucets &amp; sinks</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/kitchen-islands-carts-10471/">Kitchen islands &amp; carts</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/kitchen-lighting-16282/">Kitchen lighting</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/knobs-handles-16298/">Knobs &amp; handles</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/modular-kitchens-22957/">Modular kitchens</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/pantry-16200/">Pantry</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/backsplashes-wall-panels-19121/">Backsplashes &amp; wall panels</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/wall-storage-20676/">Wall storage</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/cookware-tableware-kt001/">Cookware &amp; tableware</a>
+                                <ul data-tracking-label="Products | Cookware &amp; tableware" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Cookware &amp; tableware">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/coffee-tea-16044/">Coffee &amp; tea</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/cooking-baking-supplies-kt002/">Cooking &amp; baking supplies</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/cookware-kt003/">Cookware</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/dinnerware-18860/">Dinnerware</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/dishwashing-accessories-15938/">Dishwashing accessories</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/flatware-18865/">Flatware</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/food-storage-organizing-15937/">Food storage &amp; organizing</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/drinkware-18868/">Drinkware</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/kitchen-textiles-18850/">Kitchen textiles</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/knives-chopping-boards-15934/">Knives &amp; chopping boards</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/napkins-napkin-holders-20560/">Napkins &amp; napkin holders</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/serveware-16043/">Serveware</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/table-linen-20538/">Table linen</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/home-decor-de001/">Home décor</a>
+                                <ul data-tracking-label="Products | Home décor" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Home décor">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/candle-holders-candles-10760/">Candle holders &amp; candles</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/clocks-10759/">Clocks</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/decorative-accessories-24924/">Decorative accessories</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/flower-pots-stands-pp004/">Flower pots &amp; stands</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/wall-decor-10757/">Wall décor</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/home-fragrance-42926/">Home fragrance</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/mirrors-20489/">Mirrors</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/noticeboards-10574/">Noticeboards</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/paper-shop-25227/">Paper shop</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/plants-flowers-pp003/">Plants &amp; flowers</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/storage-boxes-baskets-10550/">Storage boxes &amp; baskets</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/vases-bowls-10769/">Vases &amp; bowls</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/pots-plants-pp001/">Pots &amp; plants</a>
+                                <ul data-tracking-label="Products | Pots &amp; plants" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Pots &amp; plants">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/flower-pots-stands-pp004/">Flower pots &amp; stands</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/growing-accessories-24887/">Growing accessories</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/plant-stands-movers-20494/">Plant stands &amp; movers</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/plants-flowers-pp003/">Plants &amp; flowers</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/watering-cans-20493/">Watering cans</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/rugs-mats-flooring-rm001/">Rugs, mats &amp; flooring</a>
+                                <ul data-tracking-label="Products | Rugs, mats &amp; flooring" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Rugs, mats &amp; flooring">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/rugs-10653/">Rugs</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bath-mats-20519/">Bath mats</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/door-mats-10698/">Door mats</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/outdoor-flooring-21957/">Outdoor flooring</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/storage-home-organization-st001/">Storage &amp; home organization</a>
+                                <ul data-tracking-label="Products | Storage &amp; home organization" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Storage &amp; home organization">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bookcases-shelving-units-st002/">Bookcases &amp; shelving units</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/clothes-organizers-st005/">Clothes organizers</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/display-storage-cabinets-st003/">Display &amp; storage cabinets</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/dressers-storage-drawers-st004/">Dressers &amp; storage drawers</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/kitchen-islands-carts-fu005/">Kitchen islands &amp; carts</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/open-clothes-shoe-storage-system-11466/">Open clothes &amp; shoe storage system</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/pax-wardrobe-system-29879/">PAX wardrobe system</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/sideboards-buffets-sofa-tables-30454/">Sideboards, buffets &amp; sofa tables</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/small-storage-st007/">Small storage</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bags-16248/">Bags</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/tv-media-furniture-10475/">TV &amp; media furniture</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/wall-organization-st006/">Wall organization</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/armoires-wardrobes-19053/">Armoires &amp; wardrobes</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/moving-supplies-46078/">Moving supplies</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/platsa-modular-storage-system-41790/">PLATSA modular storage system</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/storage-solution-systems-46052/">Storage solution systems</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/textiles-tl001/">Textiles</a>
+                                <ul data-tracking-label="Products | Textiles" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Textiles">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/baby-textiles-18690/">Baby textiles</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bathroom-textiles-tl003/">Bathroom textiles</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bedding-tl004/">Bedding</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/blankets-throws-20528/">Blankets &amp; throws</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/kids-textiles-18730/">Kids textiles</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/curtains-blinds-tl002/">Curtains &amp; blinds</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/cushions-cushions-covers-10659/">Cushions &amp; cushions covers</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/fabrics-sewing-10655/">Fabrics &amp; sewing</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/kitchen-textiles-18850/">Kitchen textiles</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/outdoor-cushions-17893/">Outdoor cushions</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/table-linen-20538/">Table linen</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/outdoor-od001/">Outdoor</a>
+                                <ul data-tracking-label="Products | Outdoor" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Outdoor">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/grills-24898/">Grills</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/outdoor-cushions-17893/">Outdoor cushions</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/outdoor-flooring-21957/">Outdoor flooring</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/outdoor-furniture-od003/">Outdoor furniture</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/outdoor-lighting-17897/">Outdoor lighting</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/outdoor-organizing-21958/">Outdoor organizing</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/outdoor-pots-plants-31787/">Outdoor pots &amp; plants</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/outdoor-accessories-34203/">Outdoor accessories</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/umbrellas-gazebos-17887/">Umbrellas &amp; gazebos</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/outdoor-rugs-34204/">Outdoor rugs</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/ikea-food-fb001/">IKEA Food</a>
+                                <ul data-tracking-label="Products | IKEA Food" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for IKEA Food">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/beverages-25211/">Beverages</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bread-dairy-25212/">Bread &amp; dairy</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/chocolates-sweets-25218/">Chocolates &amp; sweets</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/fish-seafood-25214/">Fish &amp; seafood</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/meat-25217/">Meat</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/pastries-desserts-cookies-25215/">Pastries, desserts &amp; cookies</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/sauces-jam-condiments-25216/">Sauces, jam &amp; condiments</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/vegetables-side-dishes-25213/">Vegetables &amp; side dishes</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/snacks-on-the-go-46192/">Snacks &amp; on the go</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/home-improvement-hi001/">Home improvement</a>
+                                <ul data-tracking-label="Products | Home improvement" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Home improvement">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/knobs-handles-16298/">Knobs &amp; handles</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/oils-stains-product-care-42948/">Oils, stains &amp; product care</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/outdoor-flooring-21957/">Outdoor flooring</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/safety-16249/">Safety</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/tools-hardware-16292/">Tools &amp; hardware</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/backsplashes-wall-panels-19121/">Backsplashes &amp; wall panels</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/moving-supplies-46078/">Moving supplies</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/acoustic-panels-46077/">Acoustic panels</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/home-safety-sp001/">Home safety</a>
+                                <ul data-tracking-label="Products | Home safety" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Home safety">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/child-safety-16257/">Child safety</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/home-safety-16256/">Home safety</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/laundry-cleaning-lc001/">Laundry &amp; cleaning</a>
+                                <ul data-tracking-label="Products | Laundry &amp; cleaning" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Laundry &amp; cleaning">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bins-bags-16213/">Bins &amp; bags</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/cleaning-accessories-20609/">Cleaning accessories</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/dishwashing-accessories-15938/">Dishwashing accessories</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/drying-racks-20602/">Drying racks</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/ironing-boards-20608/">Ironing boards</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/laundry-baskets-20601/">Laundry baskets</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/leisure-travel-lt001/">Leisure &amp; travel</a>
+                                <ul data-tracking-label="Products | Leisure &amp; travel" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Leisure &amp; travel">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/books-16251/">Books</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/games-recreation-24847/">Games &amp; recreation</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/paper-shop-25227/">Paper shop</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/bags-16248/">Bags</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/lighting-li001/">Lighting</a>
+                                <ul data-tracking-label="Products | Lighting" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Lighting">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/decorative-lighting-14971/">Decorative lighting</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/integrated-lighting-16280/">Integrated lighting</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/led-light-bulbs-10744/">LED Light bulbs</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/light-fixtures-lamps-li002/">Light fixtures &amp; lamps</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/outdoor-lighting-17897/">Outdoor lighting</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/smart-lighting-36812/">Smart lighting</a></li>
+                                </ul>
+                              </li>
+                              <li class="desktop-menu__level1__item">
+                                <a href="https://www.ikea.com/ca/en/cat/pets-pt001/">Pets</a>
+                                <ul data-tracking-label="Products | Pets" class="desktop-menu__level2 desktop-menu__level2--hidden" aria-hidden="true" aria-label="Submenu for Pets">
+                                  <li><a href="https://www.ikea.com/ca/en/cat/cats-39569/">Cats</a></li>
+                                  <li><a href="https://www.ikea.com/ca/en/cat/dogs-39570/">Dogs</a></li>
+                                </ul>
+                              </li>
+                          </ul>
+                        </div>
+                          <div class="desktop-menu__dropdown__col">
+                            <span class="desktop-menu__dropdown__heading">Popular products</span>
+                            <ul data-tracking-label="Popular products" class="desktop-menu__level1" aria-label="Submenu for Popular products">
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/campaigns/everything-you-need-for-under-10-dollars-pub434a1eb1" >Products Under $10</a>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/rooms/bedroom/mattresses-pub3d1091b1" >Mattresses</a>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/rooms/kitchen/kitchen-appliances-pub0ef89201" >Appliances</a>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/cat/beds-bm003/?itm_campaign&#x3D;beds_desktop_en&amp;itm_element&#x3D;prodpopular_nav_desktop&amp;itm_content&#x3D;beds" >Beds</a>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/cat/tables-desks-fu004/" >Tables &amp; desks</a>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/cat/sofas-armchairs-fu003/" >Sofas &amp; armchairs</a>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/cat/storage-home-organization-st001/" >Home organization</a>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/cat/chairs-fu002/" >Chairs</a>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/cat/bedding-tl004/" >Bedding</a>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/cat/bookcases-shelving-units-st002/" >Bookcases &amp; shelving units</a>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/cat/dressers-storage-drawers-st004/" >Dressers</a>
+                                </li>
+                            </ul>
+                          </div>
+                          <div class="desktop-menu__dropdown__col">
+                            <span class="desktop-menu__dropdown__heading">New at IKEA</span>
+                            <ul data-tracking-label="New at IKEA" class="desktop-menu__level1" aria-label="Submenu for New at IKEA">
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/news/flyers-pube85a2761" >Flyer</a>
+                                  <p></p>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/offers/lower-price/" >New lower price</a>
+                                  <p></p>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/news/varmer-collection-pubc188d5f1" >VÄRMER Collection</a>
+                                  <p></p>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/news/ikea-sonos-symfonisk-wifi-speakers-pubaafe6500" >SYMFONISK Collection</a>
+                                  <p></p>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/news/" >See all new stories</a>
+                                  <p></p>
+                                </li>
+                                <li class="desktop-menu__level1__item">
+                                  <a href="https://www.ikea.com/ca/en/news/product-news-gallery/" >See all new products</a>
+                                  <p></p>
+                                </li>
+                            </ul>
+                          </div>
+                      </div>
+                  </li>
+                
+                
+                  <li class="desktop-menu__item">
+                    <a href="https://www.ikea.com/ca/en/menu/rooms/" class="desktop-menu__link">
+                      <span class="desktop-menu__title">Rooms</span>
+                    </a>
+                      <div class="desktop-menu__dropdown desktop-menu__dropdown--hidden" aria-hidden="true">
+                        <span class="desktop-menu__dropdown__heading">Rooms</span>
+                        <ul data-tracking-label="Rooms" class="desktop-menu__level1" aria-label="Submenu for Rooms">
+                            <li class="desktop-menu__level1__item">
+                              <a href="https://www.ikea.com/ca/en/rooms/bedroom/" >Bedroom</a>
+                            </li>
+                            <li class="desktop-menu__level1__item">
+                              <a href="https://www.ikea.com/ca/en/rooms/living-room/" >Living room</a>
+                            </li>
+                            <li class="desktop-menu__level1__item">
+                              <a href="https://www.ikea.com/ca/en/rooms/kitchen/" >Kitchen &amp; appliances</a>
+                            </li>
+                            <li class="desktop-menu__level1__item">
+                              <a href="https://www.ikea.com/ca/en/rooms/home-office/" >Home office</a>
+                            </li>
+                            <li class="desktop-menu__level1__item">
+                              <a href="https://www.ikea.com/ca/en/rooms/bathroom/" >Bathroom</a>
+                            </li>
+                            <li class="desktop-menu__level1__item">
+                              <a href="https://www.ikea.com/ca/en/rooms/outdoor/" >Outdoor</a>
+                            </li>
+                            <li class="desktop-menu__level1__item">
+                              <a href="https://www.ikea.com/ca/en/rooms/dining/" >Dining</a>
+                            </li>
+                            <li class="desktop-menu__level1__item">
+                              <a href="https://www.ikea.com/ca/en/cat/storage-home-organization-st001/" >Storage</a>
+                            </li>
+                            <li class="desktop-menu__level1__item">
+                              <a href="https://www.ikea.com/ca/en/rooms/childrens-room/" >Baby &amp; Kids room</a>
+                            </li>
+                            <li class="desktop-menu__level1__item">
+                              <a href="https://www.ikea.com/ca/en/rooms/hallway/" >Hallway</a>
+                            </li>
+                            <li class="desktop-menu__level1__item">
+                              <a href="https://www.ikea.com/ca/en/rooms/laundry/" >Laundry</a>
+                            </li>
+                        </ul>
+                      </div>
+                  </li>
+                
+                
+                  <li class="desktop-menu__item">
+                    <a href="https://www.ikea.com/ca/en/menu/ideas-and-inspiration/" class="desktop-menu__link">
+                      <span class="desktop-menu__title">IDEAS &amp; Inspiration</span>
+                    </a>
+                      <div class="desktop-menu__dropdown desktop-menu__dropdown--hidden" aria-hidden="true">
+                        <span class="desktop-menu__dropdown__heading">IDEAS &amp; Inspiration</span>
+                        <ul data-tracking-label="IDEAS &amp; Inspiration" class="desktop-menu__level1" aria-label="Submenu for IDEAS &amp; Inspiration">
+                            <li class="desktop-menu__level1__item">
+                              <a href="https://www.ikea.com/ca/en/ideas/" >IDEAS blog</a>
+                            </li>
+                            <li class="desktop-menu__level1__item">
+                              <a href="https://www.ikea.com/ca/en/ideas/ikeainspo-pub7f46570a" >#IKEAinspo fan photos</a>
+                            </li>
+                        </ul>
+                      </div>
+                  </li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            </ul>
+          <ul class="header__icon-list header__icon-count-2"  data-shopping-links>
+            <li class="header__icon-list-item">
+              <a class="header__icon-list-item-link" href="https://order.ikea.com/ca/en/checkout/shoppinglist/" rel="nofollow">
+                <div class="header__icon-list-item-icon">
+                  <img src="https://www.ikea.com/ca/en/static/nav-shopping-list.cc02cd650d8c817b80edd65fb79f57e5.svg" alt="Shopping list" title="Shopping list">
+                </div>
+                <span class="header__icon-list-item-text">Shopping list</span>
+              </a>
+            </li>
+            <li class="header__icon-list-item">
+              <a class="header__shopping-cart header__icon-list-item-link" href="https://secure.ikea.com/ca/en/mcommerce/shoppingcart" rel="nofollow">
+                <div class="header__icon-list-item-icon js-shopping-cart-icon" data-market-code="en-CA">
+                  <img src="https://www.ikea.com/ca/en/static/nav-shopping-bag.6dda3f5f848587d5858a987a298ee635.svg" alt="Shopping cart" title="Shopping cart">
+                </div>
+                <span class="header__icon-list-item-text">Shopping cart</span>
+              </a>
+            </li>
+            <li class="header__icon-list-item header__icon-list-item--menu">
+                <a class="header__icon-list-item-link" href="https://www.ikea.com/ca/en/menu/" aria-expanded="false" aria-label="Menu">
+                  <div class="header__icon-list-item-icon">
+                    <img src="https://www.ikea.com/ca/en/static/nav-menu.2abb45a57649541b487c058051104b29.svg" alt="" title="Menu">
+                  </div>
+                  <span class="header__icon-list-item-text">Menu</span>
+                </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+      <div data-namespace="search-box-overlay"></div><div data-namespace="search-box" data-version="&quot;v1.139.0&quot;"><form role="search" action="https://www.ikea.com/ca/en/search/" class="search-box"><div class="search-field"><input type="search" name="q" class="search-field__input" spellcheck="false" aria-label="Search by product" aria-placeholder="Search by product" autocapitalize="off" autocomplete="off" autocorrect="off"><span class="search-suggestions">Search for <ul class="search-suggestions__list"><li class="
+                search-suggestions__item
+                search-suggestions__item--active
+                search-suggestions__item--delayed
+              ">products</li><li aria-hidden="true" class="
+                search-suggestions__item
+                
+                search-suggestions__item--delayed
+              ">categories</li><li aria-hidden="true" class="
+                search-suggestions__item
+                
+                search-suggestions__item--delayed
+              ">content</li></ul></span></div></form></div>
+  <main class="main no-outline" role="main" id="content" tabindex="-1">
+    <article class="article publicera-page">
+    <div id="6fc9dae0-b859-11e8-b16b-6d8a11625ff3" class="page-title component">
+      <div class="page-title__container">
+        <h1 class="page-title__heading">Welcome to IKEA Canada</h1>
+      </div>
+    </div>
+
+
+</article>
+  </main>
+  <div id="js-is-mobile" class="is-mobile"></div>
+  <!-- Wed, 15 Jan 2020 07:19:16 GMT, Navigera 1.12.28 -->
+    <div data-recently-viewed="true"></div>
+    <footer class="footer" role="contentinfo">
+      <div id="footerAccordion">
+        <div class="footer__ikea-container">
+          <div class="footer__ikea-row footer__accordion">
+            <div class="footer__ikea-col-lg-3">
+              <ul class="footer__accordion--item" role="list">
+                <li id="footer-accordion0">
+                  <p class="footer__accordion--headline" tabindex="0" role="button" aria-controls="footer-accordion-section0" aria-expanded="false">
+                    <svg class="hnf-svg-icon footer__svg-icon footer__svg-icon--leading hnf-svg-icon--200" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,5H14.15A2.88,2.88,0,0,0,12,6,2.88,2.88,0,0,0,9.86,5H2V19h8.57A1.28,1.28,0,0,1,12,20s0,0,0,0l0,0a1.26,1.26,0,0,1,1.41-1H22V8ZM11.5,18.09a2.82,2.82,0,0,0-.71-.09H3V6h7.07A1.43,1.43,0,0,1,11.5,7.43ZM21,18H13.22a3,3,0,0,0-.72.09V7.43A1.43,1.43,0,0,1,13.93,6H18V9h3Z"/></svg>
+                    <span class="footer__accordion--title-wrap"><strong class="footer__accordion--title">Help</strong></span>
+                    <svg description="Expand/Collapse" class="hnf-svg-icon hnf-svg-icon--150 footer__svg-icon footer__svg-icon--expander" viewbox="0 0 24 24">
+                      <path d="M13 17v-4h4v-2h-4V7h-2v4H7v2h4v4z" fill-rule="evenodd"></path>
+                    </svg>
+                  </p>
+                  <ul id="footer-accordion-section0" class="footer__accordion--content" aria-hidden="true" role="list" aria-labelledby="footer-accordion0">
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/customer-service/" class="footer__link--white" >Customer Service</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/customer-service/faq/" class="footer__link--white" >FAQ</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/customer-service/contact-us/" class="footer__link--white" >Contact us</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/customer-service/product-support/recalls/" class="footer__link--white" >Product Recalls</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://ikeafamily.ca/en/sell-back" class="footer__link--white" >Sell back program</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/customer-service/returns-claims/" class="footer__link--white" >Return policies</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/customer-service/ikea-warranties-pubac9e3001" class="footer__link--white" >Warranties</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/customer-service/feedback-center-pubd7fa5270" class="footer__link--white" >Feedback</a>
+                      </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+            <div class="footer__ikea-col-lg-3">
+              <ul class="footer__accordion--item" role="list">
+                <li id="footer-accordion1">
+                  <p class="footer__accordion--headline" tabindex="0" role="button" aria-controls="footer-accordion-section1" aria-expanded="false">
+                    <svg class="hnf-svg-icon footer__svg-icon footer__svg-icon--leading hnf-svg-icon--200" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,6H3A1,1,0,0,0,2,7V18a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1V7A1,1,0,0,0,21,6Zm0,12H3V12H21Zm0-9H3V7H21Z"/></svg>
+                    <span class="footer__accordion--title-wrap"><strong class="footer__accordion--title">Shop &amp; Learn</strong></span>
+                    <svg description="Expand/Collapse" class="hnf-svg-icon hnf-svg-icon--150 footer__svg-icon footer__svg-icon--expander" viewbox="0 0 24 24">
+                      <path d="M13 17v-4h4v-2h-4V7h-2v4H7v2h4v4z" fill-rule="evenodd"></path>
+                    </svg>
+                  </p>
+                  <ul id="footer-accordion-section1" class="footer__accordion--content" aria-hidden="true" role="list" aria-labelledby="footer-accordion1">
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/customer-service/ikea-apps-pub03058084" class="footer__link--white" >IKEA Store App</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/stores/" class="footer__link--white" >Find a location</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/customer-service/services/" class="footer__link--white" >IKEA Services</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/customer-service/catalogue-and-brochures-pub4405a9e4" class="footer__link--white" >IKEA Catalogue</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://ikeafamily.ca/en?utm_source=footer_navigation_family&utm_medium=footer_navigation_family" class="footer__link--white" >IKEA Family</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/ikea-business/" class="footer__link--white" >IKEA for Business</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/planners/" class="footer__link--white" >IKEA Planners</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/customer-service/buying-guides-pub9db04a41" class="footer__link--white" >Buying Guides</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/customer-service/ikea-gift-cards-puba64c3216" class="footer__link--white" >Gift Cards</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/customer-service/ikea-gift-cards-puba64c3216" class="footer__link--white" >Payment Options</a>
+                      </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+            <div class="footer__ikea-col-lg-3">
+              <ul class="footer__accordion--item" role="list">
+                <li id="footer-accordion2">
+                  <p class="footer__accordion--headline" tabindex="0" role="button" aria-controls="footer-accordion-section2" aria-expanded="false">
+                    <svg class="hnf-svg-icon footer__svg-icon footer__svg-icon--leading hnf-svg-icon--200" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,6V19H21V6Zm9,12H7V13h4Zm5,0H12V13h4Zm1,0V12H6v6H3V7H20V18Z"/></svg>
+                    <span class="footer__accordion--title-wrap"><strong class="footer__accordion--title">About IKEA</strong></span>
+                    <svg description="Expand/Collapse" class="hnf-svg-icon hnf-svg-icon--150 footer__svg-icon footer__svg-icon--expander" viewbox="0 0 24 24">
+                      <path d="M13 17v-4h4v-2h-4V7h-2v4H7v2h4v4z" fill-rule="evenodd"></path>
+                    </svg>
+                  </p>
+                  <ul id="footer-accordion-section2" class="footer__accordion--content" aria-hidden="true" role="list" aria-labelledby="footer-accordion2">
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/this-is-ikea/" class="footer__link--white" >This is IKEA</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/this-is-ikea/work-with-us/" class="footer__link--white" >Careers</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/this-is-ikea/newsroom/" class="footer__link--white" >Newsroom</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/this-is-ikea/design/" class="footer__link--white" >Democratic Design</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/en/this-is-ikea/sustainable-everyday/" class="footer__link--white" >A sustainable everyday</a>
+                      </li>
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikeafoundation.org/" class="footer__link--white" >IKEA Foundation</a>
+                      </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+            <div class="footer__ikea-col-lg-3">
+              <ul class="footer__accordion--item" role="list">
+                <li id="footer-accordion3">
+                  <p class="footer__accordion--headline" tabindex="0" role="button" aria-controls="footer-accordion-section3" aria-expanded="false">
+                    <svg class="hnf-svg-icon footer__svg-icon footer__svg-icon--leading hnf-svg-icon--200" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2Zm8.05,6H16.58a10.77,10.77,0,0,0-2.07-4.64A9,9,0,0,1,20.05,8ZM16,12a18.87,18.87,0,0,1-.24,3H8.24a18.87,18.87,0,0,1,0-6h7.52A18.87,18.87,0,0,1,16,12ZM12,3c1.37,0,2.84,1.93,3.56,5H8.44C9.16,4.93,10.63,3,12,3Zm-2.51.36A10.77,10.77,0,0,0,7.42,8H4A9,9,0,0,1,9.49,3.36ZM3,12a8.78,8.78,0,0,1,.53-3h3.7a19.47,19.47,0,0,0,0,6H3.53A8.78,8.78,0,0,1,3,12Zm1,4H7.42a10.77,10.77,0,0,0,2.07,4.64A9,9,0,0,1,4,16ZM12,21c-1.37,0-2.84-1.93-3.56-5h7.12C14.84,19.07,13.37,21,12,21Zm2.51-.36A10.77,10.77,0,0,0,16.58,16h3.47A9,9,0,0,1,14.51,20.64ZM16.77,15A20.1,20.1,0,0,0,17,12a20.1,20.1,0,0,0-.23-3h3.71a8.83,8.83,0,0,1,0,6Z"/></svg>
+                    <span class="footer__accordion--title-wrap"><strong class="footer__accordion--title">Language</strong></span>
+                    <svg description="Expand/Collapse" class="hnf-svg-icon hnf-svg-icon--150 footer__svg-icon footer__svg-icon--expander" viewbox="0 0 24 24">
+                      <path d="M13 17v-4h4v-2h-4V7h-2v4H7v2h4v4z" fill-rule="evenodd"></path>
+                    </svg>
+                  </p>
+                  <ul id="footer-accordion-section3" class="footer__accordion--content" aria-hidden="true" role="list" aria-labelledby="footer-accordion3">
+                      <li class="footer__accordion--content-item">
+                        <a href="https://www.ikea.com/ca/fr/" class="footer__link--white" >Français</a>
+                      </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+        <nav class="footer__nav">
+          <ul class="footer__list--plain footer__list--horizontal footer__list--font-normal" role="list">
+                  <li class="footer__horizontal-list-item footer__horizontal-list-item--social">
+                    <a href="https://www.facebook.com/IKEACanada" class="footer__link--white footer__social-link" aria-label="Facebook" >
+                      <svg class="footer__svg-icon footer__svg-icon--social" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 21.976c-5.51 0-9.976-4.466-9.976-9.976 0-5.51 4.466-9.976 9.976-9.976 5.51 0 9.976 4.466 9.976 9.976 0 5.51-4.466 9.976-9.976 9.976zm.589-4.726v-4.51h1.505l.225-1.757h-1.73V9.862c0-.508.14-.855.866-.855h.925V7.435c-.16-.021-.71-.07-1.348-.07-1.335 0-2.248.82-2.248 2.323v1.296h-1.51v1.757h1.51v4.509h1.805z"/></svg><span class="footer__inner-item-text">Facebook</span>
+                    </a>
+                  </li>
+                  <li class="footer__horizontal-list-item footer__horizontal-list-item--social">
+                    <a href="https://instagram.com/ikeacanada/" class="footer__link--white footer__social-link" aria-label="Instagram" >
+                      <svg class="footer__svg-icon footer__svg-icon--social" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.988 2.038c5.494 0 9.949 4.454 9.949 9.95 0 5.494-4.455 9.949-9.95 9.949-5.494 0-9.949-4.455-9.949-9.95 0-5.494 4.455-9.949 9.95-9.949zm5.823 7.68a3.529 3.529 0 0 0-3.528-3.529H9.717A3.529 3.529 0 0 0 6.19 9.717v4.566a3.529 3.529 0 0 0 3.528 3.528h4.566a3.529 3.529 0 0 0 3.528-3.528V9.717zm-.83 0v4.565a2.699 2.699 0 0 1-2.698 2.698H9.717a2.699 2.699 0 0 1-2.698-2.698V9.717A2.699 2.699 0 0 1 9.717 7.02h4.566a2.699 2.699 0 0 1 2.698 2.698zm-1.245-.831a.623.623 0 1 0-1.246 0 .623.623 0 0 0 1.246 0zM14.076 12a2.076 2.076 0 1 1-4.153-.001 2.076 2.076 0 0 1 4.152.001zm.83 0a2.906 2.906 0 1 0-5.813.001A2.906 2.906 0 0 0 14.905 12z"/></svg><span class="footer__inner-item-text">Instagram</span>
+                    </a>
+                  </li>
+                  <li class="footer__horizontal-list-item footer__horizontal-list-item--social">
+                    <a href="http://pinterest.com/ikeacanada/" class="footer__link--white footer__social-link" aria-label="Pinterest" >
+                      <svg class="footer__svg-icon footer__svg-icon--social" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.042 21.51c.525-.972.846-1.683.964-2.135.121-.467.621-2.372.621-2.372.326.62 1.276 1.146 2.287 1.146 3.01 0 5.178-2.768 5.178-6.207 0-3.296-2.69-5.763-6.151-5.763-4.306 0-6.593 2.891-6.593 6.039 0 1.463.78 3.285 2.025 3.865.19.088.29.05.334-.133.033-.139.201-.817.277-1.132a.298.298 0 0 0-.069-.286c-.412-.5-.742-1.42-.742-2.277 0-2.2 1.666-4.33 4.505-4.33 2.451 0 4.168 1.67 4.168 4.06 0 2.698-1.363 4.568-3.137 4.568-.98 0-1.713-.81-1.477-1.803.28-1.186.826-2.466.826-3.322 0-.766-.411-1.406-1.263-1.406-1 0-1.805 1.036-1.805 2.424 0 .883.299 1.481.299 1.481s-.99 4.181-1.17 4.96c-.155.665-.16 1.515-.107 2.242a9.968 9.968 0 0 1-5.99-9.141c0-5.504 4.462-9.966 9.966-9.966 5.503 0 9.965 4.46 9.965 9.966 0 5.503-4.462 9.965-9.965 9.965a9.962 9.962 0 0 1-2.946-.442zm-.43-.143z"/></svg><span class="footer__inner-item-text">Pinterest</span>
+                    </a>
+                  </li>
+                  <li class="footer__horizontal-list-item footer__horizontal-list-item--social">
+                    <a href="http://twitter.com/ikeacanada" class="footer__link--white footer__social-link" aria-label="Twitter" >
+                      <svg class="footer__svg-icon footer__svg-icon--social" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.979 21.983c-5.525 0-10.004-4.479-10.004-10.004 0-5.525 4.479-10.004 10.004-10.004 5.525 0 10.004 4.479 10.004 10.004 0 5.525-4.479 10.004-10.004 10.004zm6.246-13.878a5.123 5.123 0 0 1-1.472.403 2.57 2.57 0 0 0 1.125-1.418 5.132 5.132 0 0 1-1.627.622 2.566 2.566 0 0 0-4.368 2.338 7.276 7.276 0 0 1-5.28-2.678 2.566 2.566 0 0 0 .793 3.421 2.553 2.553 0 0 1-1.161-.32v.032c0 1.22.86 2.271 2.056 2.513a2.57 2.57 0 0 1-1.158.044 2.566 2.566 0 0 0 2.394 1.78 5.143 5.143 0 0 1-3.797 1.062 7.255 7.255 0 0 0 3.93 1.15c4.714 0 7.292-3.905 7.292-7.292a7.63 7.63 0 0 0-.007-.331 5.209 5.209 0 0 0 1.28-1.326z"/></svg><span class="footer__inner-item-text">Twitter</span>
+                    </a>
+                  </li>
+                  <li class="footer__horizontal-list-item footer__horizontal-list-item--social">
+                    <a href="http://youtube.com/ikeacanada/" class="footer__link--white footer__social-link" aria-label="YouTube" >
+                      <svg class="footer__svg-icon footer__svg-icon--social" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.988 2.004c5.513 0 9.983 4.47 9.983 9.984 0 5.513-4.47 9.983-9.983 9.983-5.514 0-9.984-4.47-9.984-9.983 0-5.514 4.47-9.984 9.984-9.984zm6.133 12.218c.14-1.744.14-2.846 0-4.59-.068-.832-.565-1.879-1.581-1.916-2.842-.19-6.21-.243-9.104 0-.898.1-1.513 1.194-1.58 2.024-.143 1.745-.143 2.738 0 4.482.067.83.667 1.93 1.58 2.046 2.928.192 6.277.22 9.104 0 .882-.154 1.513-1.214 1.58-2.046zm-7.381.261V9.492l3.743 2.496-3.743 2.495z"/></svg><span class="footer__inner-item-text">YouTube</span>
+                    </a>
+                  </li>
+          </ul>
+        </nav>
+      <div class="footer__copyright">
+        © Inter IKEA Systems B.V. 1999-2020
+      </div>
+        <div class="footer__menu-small">
+          <ul class="footer__list--plain footer__list--horizontal footer__list--line-separated footer__list--xsmall">
+              <li class="footer__horizontal-list-item"><a href="https://www.ikea.com/ca/en/customer-service/privacy-policy/" class="footer__link--white" >Privacy policy</a></li>
+              <li class="footer__horizontal-list-item"><a href="https://www.ikea.com/ca/en/customer-service/cookie-policy/" class="footer__link--white" >Cookie policy</a></li>
+              <li class="footer__horizontal-list-item"><a href="https://www.ikea.com/ca/en/customer-service/terms-conditions/online-ordering-terms-and-conditions-pubc1b2caa1" class="footer__link--white" >Terms &amp; conditions</a></li>
+              <li class="footer__horizontal-list-item"><a href="https://www.ikea.com/ca/en/customer-service/accessibility-pub86790201" class="footer__link--white" >Accessibility</a></li>
+          </ul>
+        </div>
+    </footer>
+    <div class="cookie-info__panel js-cookie-info__panel hnf-no-print">
+      <div class="cookie-info__panel-text">
+        <div>The IKEA website uses cookies, which make the site simpler to use.</div>
+        &nbsp;
+        <div>
+          <a class="cookie-info__learn-more-link" href="https://www.ikea.com/ca/en/customer-service/cookie-policy-pub6ff52b81">Find out more about browser cookies.</a>
+        </div>
+      </div>
+      <div>
+        <button class="cookie-info__accept-button js-cookie-info__accept-button">OK</button>
+      </div>
+    </div>
+
+  <!-- Wed, 15 Jan 2020 07:19:16 GMT, Navigera 1.12.28 -->
+      <script src="https://www.ikea.com/ca/en/header-footer/javascripts/common.31e4ea536b18c64a29a3.js"></script>
+          <script src="https://www.ikea.com/ca/en/header-footer/javascripts/main.65950d73c0b405cd27dc.js"></script>
+   
+    
+      
+        <script>
+  window.isLandingPage =
+    document.referrer.split('/')[2] !== location.host ? true : false;
+</script>
+<script type="text/javascript" src="https://www.ikea.com/ca/en/analytics/scripts/ga-main.js?3edc8f48f3d553f13658" async></script><script type="text/javascript" src="https://www.ikea.com/ca/en/analytics/scripts/ga-targeting.js?3edc8f48f3d553f13658" async></script><script type="text/javascript" src="https://www.ikea.com/ca/en/analytics/scripts/soasta.min.js?3edc8f48f3d553f13658" async></script>
+      
+    <link rel="preconnect" href="https://sik.search.blue.cdtapps.com"><script async src="https://www.ikea.com/ca/en/search-box/main.640805c4.js"></script>
+    <!-- gitVersion: latest-30c1746, siteFolder: ca/en --><script defer="defer" src="https://www.ikea.com/ca/en/recommendations/recently-viewed/vendor.3b0f1bad.js"></script><script defer="defer" src="https://www.ikea.com/ca/en/recommendations/recently-viewed/rec.8856ad58.js"></script>
+    
+      
+        <!-- Curalate -->
+<script>
+var ishome=window.location.href=="https://www.ikea.com/ca/en/" || window.location.href=="https://www.ikea.com/ca/fr/"  ? true : false;
+if(ishome==false){
+    var CRL8_SITENAME = 'ikeacanada-k4woqf';
+    !function () { var e = window.crl8 = window.crl8 || {}, n = !1, i = []; e.ready = function (e) { n ? e() : i.push(e) }, e.pixel = e.pixel || function () { e.pixel.q.push(arguments) }, e.pixel.q = e.pixel.q || []; var t = window.document, o = t.createElement("script"), c = e.debug || -1 !== t.location.search.indexOf("crl8-debug=true") ? "js" : "min.js"; o.src = t.location.protocol + "//cdn.curalate.com/sites/" + CRL8_SITENAME + "/site/latest/site." + c, o.onload = function () { n = !0, i.forEach(function (e) { e() }) }; var r = t.getElementsByTagName("script")[0]; r.parentNode.insertBefore(o, r.nextSibling) }();
+  }
+</script>
+<!-- Curalate -->
+
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/curalate-ugc.c8188fb0fff240539a2f5367.js"></script>
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/google-rich-search.7c63a8130841c94f8d6e14bd.js"></script>
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/polyfill.object.assign.01d9725a109ec75cd72a48e9.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.11/lodash.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<!--<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/webcageo.37f0b1b3d25212da44f784ee.js"></script>-->
+<!--<script src="https://cdn.jsdelivr.net/npm/vue"></script>-->
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/main.56a0f49fedd6a745df3f5f88.js"></script>
+
+<!-- turn this off after the new cart goes live -->
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/emergency-banner.37fabe5523e08ee7209b7f32.js"></script>
+
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/recent-hfbs.15c97b3251b35d65dac32f9e.js"></script>
+<script defer src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/language-owfe.753f1a135735ae5aa110b6ef.js"></script>
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/cat-ribbons.b3c96c53fab0219353e23296.js"></script>
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/billy-series-redirect.9641c88e7fa7b3440723f276.js"></script>
+<!--<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/tiny-slider.35490e68b51ed66ca1dc69e1.js"></script>-->
+<!--<script defer src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/slider.78546173830d842234031648.js"></script>-->
+<!-- <script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/amp.72a2f48e01d686187f82ed05.js"></script> -->
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/iframes.7729953f085181782bba1e9f.js"></script>
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/iframes-v2.508b9cda6f431ecf0acd25b1.js"></script>
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/iframe-responsiveness.1a650f55d630069c20c2d6a6.js"></script>
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/task-rabbit.d59bfc012e53b4335c49523f.js"></script>
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/movableInktrack.26a6ec715c447685b726bfc9.js"></script>
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/categories.67cf6a4c17ee8ab874b8e7b8.js"></script>
+<!-- <script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/owfepopup.b2deee4d379ae39790ad5594.js"></script> -->
+
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/flyers.3d2291f9ef0af71e2a8bdeae.js"></script>
+
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/nav-extra-element.1a8a877bec931232b77e9433.js"></script>
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/local-stores-seo.6b418415135ca5058df54ced.js"></script>
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/adform.6809ab542d92aa42a7d27232.js"></script>
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/contentsquare.af8b855d698b37c95be9d8c9.js" async></script>
+
+<script async src="//cdn.monsido.com/tool/javascripts/monsido.js"></script>
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/monsido.715808f643ac3f738eaea332.js"></script>
+
+<!-- Included Cart functions-->
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/iows-cart-functions.f22e69fb6c50829f1bd01353.js"></script>
+
+<!-- Curalate Reveal Test Script for Global-->
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/curalatetest.8483a93c041fb28835be315d.js"></script>
+
+
+<!-- Revised IKEA App Injector with per-minute timestamp cache busting -->
+<script>
+(function(w){
+	var ref = w.document.getElementsByTagName('script')[0];
+	var script = w.document.createElement('script');
+	script.src = '//d1t9ym6jq29som.cloudfront.net/api/app-injector/inject'+window.location.pathname;
+	ref.parentNode.insertBefore( script, ref );
+})(window);
+</script>
+
+<!-- BREADCRUMB FIX -->
+<script>
+	
+let crumb_bar = document.querySelector(".range-breadcrumb__list");
+if (crumb_bar) {
+	crumb_bar.setAttribute('itemType', 'https://schema.org/BreadcrumbList');
+	let crumbs = crumb_bar.querySelectorAll('.range-breadcrumb__list-item,.range-breadcrumb__list-item--active');
+	if (crumbs.length > 0) {
+	    for (let i = 0; i < crumbs.length; i++)
+	    {
+		    crumbs[i].setAttribute('itemprop', 'itemListElement');
+		    crumbs[i].setAttribute('itemtype', 'https://schema.org/ListItem');
+		    var anchor = crumbs[i].querySelector("a");
+		    if (anchor)
+		    {
+			    anchor.setAttribute("itemprop", "item");
+			    anchor.innerHTML = "<span itemprop='name'>"+anchor.innerHTML+"</span>";
+		        if (anchor.getAttribute('href') == ""||anchor.getAttribute('href') == "#") {
+		            anchor.setAttribute('href', location.protocol.concat('//', location.hostname, location.pathname));
+		        }
+		    }
+		}
+	}
+}	
+</script>
+
+<!-- MOBILE APP RICH SEARCH SCHEMA INJECT -->
+
+<script>
+(function() {
+	
+	if (window.location.href !== "https://www.ikea.com/ca/fr/customer-service/appli-ikea-pub03058084" 
+	&& window.location.href !== "https://www.ikea.com/ca/en/customer-service/ikea-apps-pub03058084") { return; }
+	
+	var offer = {
+		"@type": "Offer",
+		"category": "free",
+		"price": 0,
+		"priceCurrency": "CAD"
+	};
+	
+	var apps = [
+		{
+			name: document.querySelector("h1.page-title__heading").textContent.trim(),
+			description: document.querySelector("#content > article > div:nth-child(2) > div:nth-child(1) > div").textContent.trim(),
+			image: document.querySelector("#content > article > div:nth-child(2) > div:nth-child(2) > div.image.component > div > div > img").src
+		},
+		{
+			name: document.querySelector("#content > article > div:nth-child(4) > div:nth-child(1) > div.text.text--heading.component").textContent.trim(),
+			description: document.querySelector("#content > article > div:nth-child(4) > div:nth-child(2) > div.text.component > p:nth-child(1)").textContent.trim(),
+			image: document.querySelector("#content > article > div:nth-child(4) > div:nth-child(1) > div.image.component > div > div > img").src
+		},
+	];
+	
+	var json_ld = [];
+		
+	for (i = 0; i < apps.length; i++) {
+		var app = apps[i];
+		json_ld.push({
+			"@context": "http://schema.org",
+			"@type":"MobileApplication",
+			"name": app.name,
+			"operatingSystem": "Android, iOS",
+			"applicationCategory": "SHOPPING",
+			"image": app.image,
+			"url": window.location.href,
+			"description": 	app.description,
+			"offers": offer		
+		});
+	}
+
+var script_tag = document.createElement('script');
+script_tag.innerHTML = JSON.stringify(json_ld);
+script_tag.type = "application/ld+json";
+script_tag.id = "mobile_apps_schema";
+
+document.head.appendChild(script_tag);
+
+ })();	
+</script>
+
+<!-- HOWTO SCHEMA INJECT -->
+<script>
+if (window.location.pathname=="/ca/en/rooms/kitchen/how-to-plan-buy/" || window.location.pathname=="/ca/fr/rooms/kitchen/how-to-plan-buy/")
+{
+switch (window.location.pathname.split("/")[2]) {
+	case "en":
+var json_ld = {
+  "@context": "https://schema.org/", 
+  "@type": "HowTo", 
+  "name": "How to plan your IKEA Kitchen",
+  "description": "This 4-step guide to buying a kitchen is here to help you get the kitchen of your dreams. From measuring and planning, to ordering and installation, it is with you at every step of your kitchen-buying journey.",
+  "image": "https://www.ikea.com/images/a-large-bright-kitchen-featuring-white-cabinets-ad58ed474dc6669941f614720b745602.jpg",
+  "totalTime": "P4D",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "CAD",
+    "value": "0"
+  },
+  "step": [{
+    "@type": "HowToStep",
+    "name": "Measure",
+    "url": "https://www.ikea.com/ca/en/rooms/kitchen/how-to-plan-buy/",
+    "image": "https://www.ikea.com/images/pictogram-of-a-man-with-a-ruler-b890d8f5e42b2d0b46de780388cf9019.jpg",
+    "itemListElement": [
+		{
+			"@type": "HowToDirection",
+			"text": "To get an accurate, easy to use kitchen plan that works with the IKEA Home planner, make sure you measure in inches."
+		},
+		{
+			"@type": "HowToDirection",
+			"text": "Remember to mark on your plan the location of electrical sockets, water connections and anything that sticks out, like radiators, pipes and ventilation ducts."
+		},
+		{
+			"@type": "HowToDirection",
+			"text": "Use our New kitchen - planning guide for full written details about how to measure your kitchen."
+		}
+      ]
+  },{
+    "@type": "HowToStep",
+    "image": "https://www.ikea.com/images/pictogram-of-a-man-and-a-pencil-309229508a4a37a00a8031f495d0d3f2.jpg",
+    "name": "Planning",
+    "url": "https://www.ikea.com/ca/en/rooms/kitchen/how-to-plan-buy/",
+    "itemListElement": [{
+        "@type": "HowToDirection",
+        "text": "Use the IKEA Home Planner with your measurements to design, experiment and create your kitchen in 3D."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "Drop-in to an IKEA location and we can assist you with your kitchen plans using our Kitchen planner stations."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "Buying guides provide product information about our kitchen range. We also have a guide for planning your new kitchen, as well as a guide on kitchen installation."
+      }
+      ]
+  },{
+    "@type": "HowToStep",
+    "image": "https://www.ikea.com/images/let-ikea-help-with-your-kitchen-planning-5005a30000103a5e8c6c693309783d6a.jpg",
+    "name": "Ordering",
+    "url": "https://www.ikea.com/ca/en/rooms/kitchen/how-to-plan-buy/",
+    "itemListElement": [{
+        "@type": "HowToDirection",
+        "text": "Order online"
+      },{
+        "@type": "HowToDirection",
+        "text": "1. Once you are ready with your kitchen design created with the IKEA home planner (not compatible with mobile devices) you can then contact us to begin the process. A kitchen expert will review and ensure you have everything you need. Learn more about our delivery options."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "At an IKEA location (Please have your username & password on hand)"
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "1. If you're ordering in-store you'll need a print-out of you kitchen plan or have your username and password to access your plan on the IKEA Home planner (not compatible with mobile devices)."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "2. Before picking your order in-store our kitchen experts will go through your kitchen design to make sure everything is OK."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "3. Be sure to refer to our kitchen checklist. Make sure you have everything you need before buying your dream kitchen."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "4. Once you have placed your order you have many ways to receive your purchase. If you can't get your kitchen home yourself, that's not a problem, we offer delivery options including home delivery, to a Pick-up and order point or Collection Point."
+      }
+      ]
+  },{
+    "@type": "HowToStep",
+    "image": "https://www.ikea.com/images/ikea-services-pictogram-a67b1f6f8054649a76bbfe12fdf6bfb8.jpg",
+    "name": "Installation",
+    "url": "https://www.ikea.com/ca/en/rooms/kitchen/how-to-plan-buy/",
+    "itemListElement": [{
+        "@type": "HowToDirection",
+        "text": "1. Remember to follow the printed assembly instructions of each product before installation."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "2. Organizing your order based on your shopping list ensures you have everything you need laid out. Time to start installing your products in the correct order."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "3. Always employ a professional to undertake any electrical, plumbing or ventilation work that you are unsure of."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "4. Download our Kitchen installation guide (PDF) for full written details about how to install your kitchen."
+      }
+      ]
+  }]    
+};
+		
+	break;
+		
+	case "fr":
+		
+		var json_ld = {
+  "@context": "https://schema.org/", 
+  "@type": "HowTo", 
+  "name": "Comment planifier une cuisine IKEA",
+  "description": "Vous avez entre les mains le guide parfait pour apprendre comment mesurer, planifier, commander et installer votre nouvelle cuisine IKEA. Il vous dit tout! Suivez le guide…",
+  "image": "https://www.ikea.com/images/a-large-bright-kitchen-featuring-white-cabinets-ad58ed474dc6669941f614720b745602.jpg",
+  "totalTime": "P4D",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "CAD",
+    "value": "0"
+  },
+  "step": [{
+    "@type": "HowToStep",
+    "name": "Les mesures",
+    "url": "https://www.ikea.com/ca/fr/rooms/kitchen/how-to-plan-buy/",
+    "image": "https://www.ikea.com/images/pictogram-of-a-man-with-a-ruler-b890d8f5e42b2d0b46de780388cf9019.jpg",
+    "itemListElement": [{
+        "@type": "HowToDirection",
+        "text": "Afin d’élaborer un plan précis et facile à utiliser avec le Planificateur IKEA (non compatible avec les appareils mobiles), assurez-vous de prendre les mesures en pouces."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "Pensez à indiquer les emplacements des prises de courant, des conduites d’eau et d’aération, des radiateurs, des tuyaux, etc."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "Utilisez notre guide de planification Votre nouvelle cusine IKEA (PDF), vous y trouverez tous les renseignements nécessaires pour bien mesurer votre pièce."
+      }
+      ]
+  },{
+    "@type": "HowToStep",
+    "image": "https://www.ikea.com/images/pictogram-of-a-man-and-a-pencil-309229508a4a37a00a8031f495d0d3f2.jpg",
+    "name": "La planification",
+    "url": "https://www.ikea.com/ca/fr/rooms/kitchen/how-to-plan-buy/",
+    "itemListElement": [{
+        "@type": "HowToDirection",
+        "text": "Inscrivez vos mesures dans le planificateur IKEA (non compatible avec les appareils mobiles) et commencer l’aménagement de votre cuisine."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "Rappelez-vous d’enregistrer votre plan et de créer un profil avec un nom d’utilisateur et un mot de passe uniques. Cela facilitera aussi la commande de vos articles."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "Utilisez notre guide de planification Votre nouvelle cuisine IKEA (PDF), vous y trouverez tous les renseignements nécessaires pour bien planifier votre cuisine."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "Vous pouvez tout faire vous-même, mais en avez-vous envie? Présentez-vous dans l’un de nos magasins et un cuisiniste pourra vous faire profiter de ses multiples connaissances en matière de planification de cuisine IKEA."
+      }
+      ]
+  },{
+    "@type": "HowToStep",
+    "image": "https://www.ikea.com/images/let-ikea-help-with-your-kitchen-planning-5005a30000103a5e8c6c693309783d6a.jpg",
+    "name": "Passer la commande en magasin ou en ligne",
+    "url": "https://www.ikea.com/ca/fr/rooms/kitchen/how-to-plan-buy/",
+    "itemListElement": [{
+        "@type": "HowToDirection",
+        "text": "Commander en ligne"
+      },{
+        "@type": "HowToDirection",
+        "text": "1. Une fois que vous êtes satisfait du design de votre cuisine créé à l’aide du Planificateur IKEA (non compatible avec les appareils mobiles), vous pouvez, communiquer avec nous pour passer votre commande. Un cuisiniste révisera votre plan et s’assurera que votre liste d’achats est complète. Renseignements complets sur la livraison."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "En magasin. (Veuillez avoir en main vos nom d’utilisateur et mot de passe.)"
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "1. Pour commander en magasin, vous devrez imprimer le plan de votre cuisine ou encore accéder au plan à l’aide de vos nom d’utilisateur et mot de passe pour le Planificateur IKEA (non compatible avec les appareils mobiles)."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "2. Avant de ramasser votre commande, nos spécialistes en magasin vérifieront votre plan afin d’en assurer la précision."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "3. Consultez notre liste de vérifications Cuisines. Assurez-vous de n’avoir rien oublié avant de faire l’achat de votre nouvelle cuisine."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "4. Une fois votre commande passée, vous disposerez de plusieurs modes de livraison ou de ramassage possibles. Impossible pour vous de rapporter votre nouvelle cuisine à la maison ? Pas de problème ! Nous proposons la livraison à domicile, à un Centre de cueillette et de commande ou encore à un Point de ramassage."
+      }
+      ]
+  },{
+    "@type": "HowToStep",
+    "image": "https://www.ikea.com/images/ikea-services-pictogram-a67b1f6f8054649a76bbfe12fdf6bfb8.jpg",
+    "name": "Installer",
+    "url": "https://www.ikea.com/ca/fr/rooms/kitchen/how-to-plan-buy/",
+    "itemListElement": [{
+        "@type": "HowToDirection",
+        "text": "1. Rappelez-vous de suivre les instructions d’assemblage comprises avec chaque article avant d’en faire l’installation."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "2. Organisez les articles reçus selon la liste d’achats permet de vous assurer que vous avez tout à proximité. Et vous pourrez procéder à l’installation des différents éléments dans l’ordre approprié."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "3. Faites toujours appel à un professionnel pour tous les travaux d’électricité, de plomberie ou de ventilation qui pourraient causer problème."
+      },
+      {
+        "@type": "HowToDirection",
+        "text": "4. Téléchargez le Guide d’installation Cuisines (PDF) pour obtenir tous les renseignements nécessaires à l’installation de votre cuisine."
+      }
+      ]
+  }]    
+};
+			
+	break;
+}
+
+var script_tag = document.createElement('script');
+script_tag.innerHTML = JSON.stringify(json_ld);
+script_tag.type = "application/ld+json";
+script_tag.id = "howto_schema";
+document.head.appendChild(script_tag);
+
+console.debug("howto schema injected");
+}
+</script>
+
+<!-- Hotjar Tracking Code for http://m.ikea.com/ca/en/ and http://m.ikea.com/ca/fr/ -->
+<script>
+    (function(h,o,t,j,a,r){
+    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+    h._hjSettings={hjid:301351,hjsv:5};
+    a=o.getElementsByTagName('head')[0];
+    r=o.createElement('script');r.async=1;
+    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<script type="text/javascript">
+    setTimeout(function(){var a=document.createElement("script");
+    var b=document.getElementsByTagName("script")[0];
+    a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0027/3505.js?"+Math.floor(new Date().getTime()/3600000);
+    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<!-- Livechat implementation for m2/m3/OWFE -->
+<!-- Start of LiveChat (www.livechatinc.com) code -->
+<script type="text/javascript">
+window.__lc = window.__lc || {};
+window.__lc.license = 7443611;
+(function() {
+  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+})();
+</script>
+<noscript>
+<a href="https://www.livechatinc.com/chat-with/7443611/" rel="nofollow">Chat with us</a>,
+powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
+</noscript>
+<!-- End of LiveChat code -->
+
+<!-- Start of the Sales tracker code (place after LiveChat tracking code) -->
+<script type="text/javascript">
+  var LC_API = LC_API || {on_after_load: function(){}};
+  (function(cb){
+    LC_API.on_after_load = function(){
+      cb();try {
+      var custom_variables = [
+        {name: '__order_price', value: price_order_total},
+      ];
+                LC_API.trigger_sales_tracker('Gzcrl7ScUXRAuFZ0mOTxPyed6cqWW9zq', custom_variables);
+                                                } catch (error) {
+                                                                if (window.console){ console.debug('LiveChat sales tracker error:', error); }
+                                                }
+    };
+  })(LC_API.on_after_load);
+</script>
+<!-- End of the Sales tracker code -->
+
+<!-- Base scripts that fire on all pages; for marketing-tags.js -->
+<!-- ********************************************************** -->
+
+<!-- Facebook Pixel Code -->
+<script src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/facebook.6a69214bfe43be95721b4693.js" async></script>
+<noscript>
+  <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1680602185552182&ev=PageView&noscript=1"/>
+  <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2334338656815966&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 934574870 -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=AW-934574870"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-934574870');
+</script> -->
+
+<!-- Start Quantcast Tag -->
+  <script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function() {
+      var elem = document.createElement('script');
+      elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+      elem.async = true;
+      elem.type = "text/javascript";
+      var scpt = document.getElementsByTagName('script')[0];
+      scpt.parentNode.insertBefore(elem, scpt);
+    })();
+      _qevents.push({qacct:"p-BXpdPvw8xWa8w"});
+    </script>
+<!-- End Quantcast tag -->
+
+
+
+<!-- OAuth (Verizon) universal pixel -->
+<script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10071098'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+
+<!-- Adobe universal pixel -->
+<img src="https://rtd-tm.everesttech.net/upi/?sid=DYCeo93m3eTF0atECOJW&cs=1"/>
+
+<!-- ********************************************************** -->
+<!-- End base scripts that fire on all pages -->
+
+<script defer src="https://www.ikea.com/ca/en/local-extensions/header-footer/scripts/marketing-tags.cacd351523521ba01e76ac3a.js"></script>
+
+<!-- Tag for Activity Group: ikea_retargeting, Activity Name: ikea_all_pages, Activity ID: 8596403 -->
+<!-- Expected URL: https://www.ikea.com/ca -->
+
+<!--
+Activity ID: 8596403
+Activity Name: ikea_all_pages
+Activity Group Name: ikea_retargeting
+-->
+
+<!-- 
+Start of global snippet: Please do not remove
+Place this snippet between the <head> and </head> tags on every page of your site.
+-->
+<!-- Global site tag (gtag.js) - Google Marketing Platform -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=DC-9455558"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'DC-9455558');
+</script> -->
+<!-- End of global snippet: Please do not remove -->
+
+
+<!--
+Event snippet for ikea_all_pages on https://www.ikea.com/ca: Please do not remove.
+Place this snippet on pages with events you’re tracking. 
+Creation date: 06/10/2019
+-->
+<!-- <script>
+  gtag('event', 'conversion', {
+    'allow_custom_scripts': true,
+    'send_to': 'DC-9455558/ikea_0/ikea_0+standard'
+  });
+</script> -->
+<noscript>
+<img src="https://ad.doubleclick.net/ddm/activity/src=9455558;type=ikea_0;cat=ikea_0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?" width="1" height="1" alt=""/>
+</noscript>
+<!-- End of event snippet: Please do not remove -->
+
+<!-- TTD Universal Pixel, 07.15.19, implemented for ad tracking, as per Marketing/Sanz -->
+<script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+  if ((typeof window.irwanalytics_data != "undefined") && (typeof window.irwanalytics_data.transactionId != "undefined")) { var orderID = window.irwanalytics_data.transactionId; } else { var orderID = "";}
+  if (typeof window.totalProductPrice != "undefined") { var productPrice = window.totalProductPrice; } else { var productPrice = "";}
+  if (typeof window.utag_data.product_item_names != "undefined") { var itemNames = window.utag_data.product_item_names; } else { var itemNames = "";}
+  if (typeof window.utag_data.product_units != "undefined") { var productUnits = window.utag_data.product_units; } else { var productUnits = "";}
+  if (typeof window.utag_data.category != "undefined") { var productCategory = window.utag_data.category; } else { var productCategory = "";}
+  if ((typeof window.irwanalytics_data != "undefined") && (typeof window.irwanalytics_data.orderType != "undefined")) { var orderType = window.irwanalytics_data.orderType; } else { var orderType = "";}
+
+  var dynParam = {
+       "orderid": orderID, // "{orderid}" *** Wk 38 ***,
+       "v": productPrice,
+       "vf": "{vf}",
+       "td1": "", //"{Revenue}",
+       "td2": itemNames, //{Product Desc}
+       "td3": productUnits, //{QTY
+       "td4": productCategory, //"{Product Category}",
+       "td5": orderType,// "{Delivery Method}" *** Wk 38 ***,
+       "td6": "{Pickup Location}",
+       "td7": "{td7}", // {{Customer ID}}
+       "td8": "{td8}",
+       "td9": "{td9}",
+       "td10": "{td10}"
+       };
+
+    ttd_dom_ready( function() {
+        if (typeof TTDUniversalPixelApi === 'function') {
+            var universalPixelApi = new TTDUniversalPixelApi();
+            universalPixelApi.init("5trrt6a", ["ko24vy2"], "https://insight.adsrvr.org/track/up", dynParam);
+        }
+    });
+</script>
+
+<img src="https://secure.adnxs.com/px?id=1153694&seg=19055115&redir=https%3A%2F%2Fpixel.mediaiqdigital.com%2Fpixel%3Fu1%3D[u1]%26pixel_id%3D1153694%26uid%3D%24%7BUID%7D&t=2" width="1" height="1" />
+
+
+<!-- Global site tag (gtag.js) - Google Ads: 713222218, per iProspect -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=AW-713222218"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-713222218'); </script> -->
+
+<!-- Event snippet for Store Locator and Product View conversion pages -->
+<!-- <script>
+  if ((window.location.href.indexOf("/ca/en/stores/") != -1) || (window.location.href.indexOf("/ca/fr/stores/") != -1)) {
+    gtag('event', 'conversion', {'send_to': 'AW-713222218/5ef1CLmshqoBEMrQi9QC'});
+  }
+
+  if ((window.location.href.indexOf("/ca/en/p/") != -1) || (window.location.href.indexOf("/ca/fr/p/") != -1)) {
+    gtag('event', 'conversion', {'send_to': 'AW-713222218/ybB8CNOhj6oBEMrQi9QC'});
+  }
+</script> -->
+
+
+      
+  <!-- Editorial app -->
+<script src="/ca/en/javascripts/vendor.130d1fdb78ba5ecbbf98.js"></script>
+<script src="/ca/en/javascripts/main.7f0356b37c730cbbc829.js"></script>
+  
+    
+      <script src="https://www.ikea.com/ca/en/local-extensions/publicera/scripts/main.8971778a9cc0ad74eeea6d9e.js"></script>
+    
+  <!-- 8677cb1f3313 -->
+<script type="text/javascript" >var _cf = _cf || []; _cf.push(['_setFsp', true]); _cf.push(['_setBm', true]); _cf.push(['_setAu', '/resources/d82ab6e8c915868e85c331407427cf']);</script><script type="text/javascript"  src="https://www.ikea.com/resources/d82ab6e8c915868e85c331407427cf"></script></body>
+</html>
