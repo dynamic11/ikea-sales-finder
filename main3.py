@@ -1,14 +1,19 @@
 from selenium import webdriver
-import re
+import os
 import string
 from selenium.webdriver.firefox.options import Options
+
+# get current working directory
+cwd = os.getcwd()
+# set path to geckodriver
+cwd=cwd+'/geckodriver'
 
 # configure and start selenium webdriver
 options = Options()
 options.headless = True
-#driver = webdriver.Firefox(options=options, executable_path=r'C:\Utility\BrowserDrivers\geckodriver.exe')
-driver = webdriver.Firefox(options=options)
+driver = webdriver.Firefox(options=options, executable_path=cwd)
 
+# serch configuration variables
 url="https://www.ikea.com/ca/en/"
 searchTerm = "Storage Event"
 
