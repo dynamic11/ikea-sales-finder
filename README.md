@@ -28,7 +28,7 @@ I developed this tool for fun to notify me if Ikea has a sale posted on their ho
 ## The Code
 
 ### Gecko Driver
-The Gecko driver is already included in the project directory `Geckofriver`
+The Gecko driver is already included in the project directory `Geckodriver`
 
 ### How To Run
 To run this code run `main.py`.
