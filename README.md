@@ -4,7 +4,7 @@ I developed this tool for fun to notify me if Ikea has a sale posted on their ho
 ## Challenges:
 - the Ikea website uses client-side rendering to serve the website. This prevents us from just visiting the site and parsing the HTML file. We need to use we headless web-browser to render the page then parse the code for the desired text.
 - Setting up a notification system
-- setting up a server to run this script periodically
+- setting up a server to run this script periodically (can use one of my Digital Ocean instances or Heroku)
 
 ## Tools Used
 * Language: Python
